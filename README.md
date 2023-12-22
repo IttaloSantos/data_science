@@ -1,17 +1,23 @@
-# data_science
+# data'''science
 Machine learning models to work with data science using Python
 
 ## Previous Commands
 
 ### Install virtual environment and important packages
 
-_virtualenv venvName_
-_source venvName/bin/activate_ (activate venv)
+'''virtualenv venvName'''
 
-_pip install scikit-learn_
-_pip install matplotlib_
+Activate venv:
+
+'''source venvName/bin/activate'''
+
+'''pip install scikit-learn'''
+'''pip install matplotlib'''
 
 ### Install Jupyter Notebook
 
-_pip install jupyter notebook_
-_jupyter-lab_ (run jupyter notebook)
+'''pip install jupyter notebook'''
+
+Then, run jupyter notebook:
+
+'''jupyter-lab'''
