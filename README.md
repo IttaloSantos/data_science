@@ -3,7 +3,7 @@ Machine learning models to work with data science using Python
 
 ## Previous Commands
 
-### Install virtual environment and important packages
+### Install virtual environment
 
 ```
 virtualenv venvName
@@ -14,6 +14,8 @@ virtualenv venvName
 ```
 source venvName/bin/activate
 ```
+
+### Install important packages
 
 ```
 pip install scikit-learn
